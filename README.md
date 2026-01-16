@@ -1,4 +1,6 @@
 # UAS ROBOTIKA DAN SISTEM OTONOM
+---
+
 ## NOMOR 2:
 Sebuah robot bergerak dua roda (differential drive robot) telah berhasil menghasilkan lintasan referensi dari Titik Start (S) menuju Titik Goal (G) menggunakan algoritma path planning (misalnya Dijkstra, A*, atau RRT). Lintasan tersebut direpresentasikan sebagai sekumpulan titik (𝑥,𝑦) yang harus diikuti oleh robot. 
 
@@ -22,6 +24,8 @@ Jelaskan secara rinci:
    - pengaruh perubahan parameter kontroler terhadap kestabilan dan akurasi tracking. 
  
 Hasil dapat disajikan dalam bentuk kode Python dan visualisasi grafik (lintasan referensi vs lintasan robot, serta grafik error).
+
+---
 
 # DIBUAT OLEH:
 ## KELOMPOK 1:
